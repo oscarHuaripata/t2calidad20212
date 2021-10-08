@@ -38,7 +38,7 @@ namespace BibliotecaUPN.Web.Controllers
 
                 return RedirectToAction("Index", "Home");
             }
-            ViewBag.Validation = "Usuario y/o contraseña incorrecta";
+            ViewBag.Validation = "el Usuario y/o contraseña incorrecta";
             return View();
         }
 
