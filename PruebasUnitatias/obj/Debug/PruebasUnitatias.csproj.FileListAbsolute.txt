@@ -1,0 +1,498 @@
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\PruebasUnitatias.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\PruebasUnitatias.pdb
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\obj\Debug\PruebasUnitatias.csprojAssemblyReference.cache
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\obj\Debug\PruebasUnitatias.csproj.CoreCompileInputs.cache
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\obj\Debug\PruebasUnitatias.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\obj\Debug\PruebasUnitatias.pdb
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\ApplicationInsights.config
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\roslyn\csc.exe
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\roslyn\vbc.exe
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\nunit.engine.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\nunit.engine.api.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\netstandard.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.AppContext.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.Collections.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.Collections.Specialized.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.ComponentModel.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.Console.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.Data.Common.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.Globalization.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.IO.Compression.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.IO.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.IO.FileSystem.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.IO.Pipes.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.Linq.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.Linq.Expressions.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.Linq.Parallel.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.Linq.Queryable.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.Net.Http.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.Net.NameResolution.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.Net.Ping.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.Net.Primitives.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.Net.Requests.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.Net.Security.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.Net.Sockets.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.Net.WebSockets.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.ObjectModel.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.Reflection.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.Resources.Reader.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.Resources.Writer.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.Runtime.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.Runtime.Handles.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.Security.Claims.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.Security.Principal.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.Security.SecureString.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.Text.Encoding.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.Threading.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.Threading.Tasks.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.Threading.Thread.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.Threading.Timer.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.ValueTuple.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.Xml.XDocument.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.Xml.XPath.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\BibliotecaUPN.Web.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\Castle.Core.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\Moq.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\nunit.framework.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.Web.Helpers.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.Web.Mvc.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.Web.Razor.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.Web.WebPages.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\WebActivatorEx.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.Web.Optimization.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\Unity.Abstractions.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\Unity.Container.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\EntityFramework.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\Unity.Mvc.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\BibliotecaUPN.Web.pdb
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\BibliotecaUPN.Web.dll.config
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\Castle.Core.xml
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\Moq.xml
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\nunit.framework.pdb
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\nunit.framework.xml
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.Web.Helpers.xml
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.Web.Mvc.xml
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.Web.Razor.xml
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.Web.WebPages.xml
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\System.Web.Optimization.xml
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\Unity.Abstractions.pdb
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\Unity.Container.pdb
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\EntityFramework.xml
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\Unity.Mvc.pdb
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\Unity.Mvc.xml
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\es\System.Web.Helpers.resources.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\es\System.Web.Mvc.resources.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\es\System.Web.Razor.resources.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\es\System.Web.WebPages.resources.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\bin\Debug\es\System.Web.Optimization.resources.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\PruebasUnitatias\obj\Debug\PruebasUnitatias.csproj.CopyComplete
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\ApplicationInsights.config
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\roslyn\csc.exe
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\roslyn\System.Collections.Immutable.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\roslyn\System.Reflection.Metadata.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\roslyn\vbc.exe
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\roslyn\VBCSCompiler.exe
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\roslyn\VBCSCompiler.exe.config
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\NUnit3.TestAdapter.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\NUnit3.TestAdapter.pdb
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\nunit.engine.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\nunit.engine.api.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\PruebasUnitatias.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\PruebasUnitatias.pdb
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\Microsoft.Win32.Primitives.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\netstandard.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.AppContext.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.Collections.Concurrent.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.Collections.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.Collections.NonGeneric.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.Collections.Specialized.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.ComponentModel.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.ComponentModel.Primitives.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.ComponentModel.TypeConverter.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.Console.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.Data.Common.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.Diagnostics.Contracts.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.Diagnostics.Debug.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.Diagnostics.Process.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.Diagnostics.StackTrace.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.Diagnostics.Tools.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.Diagnostics.TraceSource.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.Diagnostics.Tracing.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.Drawing.Primitives.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.Dynamic.Runtime.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.Globalization.Calendars.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.Globalization.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.Globalization.Extensions.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.IO.Compression.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.IO.Compression.ZipFile.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.IO.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.IO.FileSystem.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.IO.FileSystem.Primitives.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.IO.FileSystem.Watcher.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.IO.IsolatedStorage.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.IO.MemoryMappedFiles.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.IO.Pipes.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.Linq.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.Linq.Expressions.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.Linq.Parallel.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.Linq.Queryable.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.Net.Http.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.Net.NameResolution.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.Net.NetworkInformation.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.Net.Ping.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.Net.Primitives.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.Net.Requests.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.Net.Security.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.Net.Sockets.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.Net.WebHeaderCollection.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.Net.WebSockets.Client.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.Net.WebSockets.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.ObjectModel.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.Reflection.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.Reflection.Extensions.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.Reflection.Primitives.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.Resources.Reader.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.Resources.ResourceManager.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.Resources.Writer.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.Runtime.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.Runtime.Extensions.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.Runtime.Handles.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.Runtime.InteropServices.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.Runtime.Numerics.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.Runtime.Serialization.Formatters.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.Runtime.Serialization.Json.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.Runtime.Serialization.Primitives.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.Runtime.Serialization.Xml.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.Security.Claims.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.Security.Cryptography.Algorithms.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.Security.Cryptography.Csp.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.Security.Cryptography.Encoding.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.Security.Cryptography.Primitives.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.Security.Principal.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.Security.SecureString.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.Text.Encoding.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.Text.Encoding.Extensions.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.Text.RegularExpressions.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.Threading.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.Threading.Overlapped.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.Threading.Tasks.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.Threading.Tasks.Parallel.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.Threading.Thread.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.Threading.ThreadPool.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.Threading.Timer.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.ValueTuple.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.Xml.ReaderWriter.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.Xml.XDocument.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.Xml.XmlDocument.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.Xml.XmlSerializer.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.Xml.XPath.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.Xml.XPath.XDocument.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\BibliotecaUPN.Web.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\Castle.Core.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\Microsoft.Web.Infrastructure.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\Moq.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\nunit.framework.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.Threading.Tasks.Extensions.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.Web.Helpers.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.Web.Mvc.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.Web.Razor.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.Web.WebPages.Deployment.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.Web.WebPages.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.Web.WebPages.Razor.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\WebActivatorEx.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.Web.Optimization.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\Unity.Abstractions.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\Unity.Container.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\EntityFramework.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\Unity.Mvc.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\BibliotecaUPN.Web.pdb
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\BibliotecaUPN.Web.dll.config
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\Castle.Core.xml
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\Moq.xml
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\nunit.framework.pdb
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\nunit.framework.xml
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.Threading.Tasks.Extensions.xml
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.Web.Helpers.xml
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.Web.Mvc.xml
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.Web.Razor.xml
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.Web.WebPages.xml
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.Web.WebPages.Deployment.xml
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.Web.WebPages.Razor.xml
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\System.Web.Optimization.xml
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\Unity.Abstractions.pdb
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\Unity.Container.pdb
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\EntityFramework.xml
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\Unity.Mvc.pdb
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\Unity.Mvc.xml
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\es\System.Web.Helpers.resources.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\es\System.Web.Mvc.resources.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\es\System.Web.Razor.resources.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\es\System.Web.WebPages.resources.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\es\System.Web.WebPages.Deployment.resources.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\es\System.Web.WebPages.Razor.resources.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\bin\Debug\es\System.Web.Optimization.resources.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\obj\Debug\PruebasUnitatias.csprojAssemblyReference.cache
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\obj\Debug\PruebasUnitatias.csproj.CoreCompileInputs.cache
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\obj\Debug\PruebasUnitatias.csproj.CopyComplete
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\obj\Debug\PruebasUnitatias.dll
+G:\2021cursos\calidad\Exament2-master\PruebasUnitatias\obj\Debug\PruebasUnitatias.pdb
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\ApplicationInsights.config
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\roslyn\csc.exe
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\roslyn\vbc.exe
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\nunit.engine.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\nunit.engine.api.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\PruebasUnitatias.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\PruebasUnitatias.pdb
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\netstandard.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.AppContext.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.Collections.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.Collections.Specialized.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.ComponentModel.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.Console.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.Data.Common.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.Globalization.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.IO.Compression.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.IO.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.IO.FileSystem.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.IO.Pipes.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.Linq.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.Linq.Expressions.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.Linq.Parallel.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.Linq.Queryable.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.Net.Http.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.Net.NameResolution.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.Net.Ping.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.Net.Primitives.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.Net.Requests.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.Net.Security.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.Net.Sockets.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.Net.WebSockets.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.ObjectModel.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.Reflection.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.Resources.Reader.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.Resources.Writer.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.Runtime.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.Runtime.Handles.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.Security.Claims.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.Security.Principal.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.Security.SecureString.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.Text.Encoding.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.Threading.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.Threading.Tasks.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.Threading.Thread.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.Threading.Timer.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.ValueTuple.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.Xml.XDocument.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.Xml.XPath.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\BibliotecaUPN.Web.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\Castle.Core.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\Moq.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\nunit.framework.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.Web.Helpers.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.Web.Mvc.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.Web.Razor.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.Web.WebPages.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\WebActivatorEx.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.Web.Optimization.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\Unity.Abstractions.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\Unity.Container.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\EntityFramework.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\Unity.Mvc.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\BibliotecaUPN.Web.pdb
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\BibliotecaUPN.Web.dll.config
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\Castle.Core.xml
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\Moq.xml
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\nunit.framework.pdb
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\nunit.framework.xml
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.Web.Helpers.xml
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.Web.Mvc.xml
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.Web.Razor.xml
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.Web.WebPages.xml
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\System.Web.Optimization.xml
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\Unity.Abstractions.pdb
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\Unity.Container.pdb
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\EntityFramework.xml
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\Unity.Mvc.pdb
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\Unity.Mvc.xml
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\es\System.Web.Helpers.resources.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\es\System.Web.Mvc.resources.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\es\System.Web.Razor.resources.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\es\System.Web.WebPages.resources.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\bin\Debug\es\System.Web.Optimization.resources.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\obj\Debug\PruebasUnitatias.csprojAssemblyReference.cache
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\obj\Debug\PruebasUnitatias.csproj.CoreCompileInputs.cache
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\obj\Debug\PruebasUnitatias.csproj.CopyComplete
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\obj\Debug\PruebasUnitatias.dll
+C:\Users\OSCAR\Desktop\Nueva carpeta\Exament2-master\PruebasUnitatias\obj\Debug\PruebasUnitatias.pdb

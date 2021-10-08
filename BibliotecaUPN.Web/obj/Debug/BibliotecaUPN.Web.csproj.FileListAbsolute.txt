@@ -1,0 +1,160 @@
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\BibliotecaUPN.Web\bin\ApplicationInsights.config
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\BibliotecaUPN.Web\bin\roslyn\csc.exe
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\BibliotecaUPN.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\BibliotecaUPN.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\BibliotecaUPN.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\BibliotecaUPN.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\BibliotecaUPN.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\BibliotecaUPN.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\BibliotecaUPN.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\BibliotecaUPN.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\BibliotecaUPN.Web\bin\roslyn\vbc.exe
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\BibliotecaUPN.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\BibliotecaUPN.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\BibliotecaUPN.Web\bin\BibliotecaUPN.Web.dll.config
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\BibliotecaUPN.Web\bin\BibliotecaUPN.Web.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\BibliotecaUPN.Web\bin\BibliotecaUPN.Web.pdb
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\BibliotecaUPN.Web\bin\Antlr3.Runtime.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\BibliotecaUPN.Web\bin\EntityFramework.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\BibliotecaUPN.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\BibliotecaUPN.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\BibliotecaUPN.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\BibliotecaUPN.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\BibliotecaUPN.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\BibliotecaUPN.Web\bin\Microsoft.AI.Web.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\BibliotecaUPN.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\BibliotecaUPN.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\BibliotecaUPN.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\BibliotecaUPN.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\BibliotecaUPN.Web\bin\Newtonsoft.Json.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\BibliotecaUPN.Web\bin\System.Web.Helpers.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\BibliotecaUPN.Web\bin\System.Web.Mvc.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\BibliotecaUPN.Web\bin\System.Web.Optimization.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\BibliotecaUPN.Web\bin\System.Web.Razor.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\BibliotecaUPN.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\BibliotecaUPN.Web\bin\System.Web.WebPages.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\BibliotecaUPN.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\BibliotecaUPN.Web\bin\WebGrease.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\BibliotecaUPN.Web\bin\EntityFramework.xml
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\BibliotecaUPN.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\BibliotecaUPN.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\BibliotecaUPN.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\BibliotecaUPN.Web\bin\Microsoft.AI.Web.xml
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\BibliotecaUPN.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\BibliotecaUPN.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\BibliotecaUPN.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\BibliotecaUPN.Web\bin\System.Web.Helpers.xml
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\BibliotecaUPN.Web\bin\System.Web.Mvc.xml
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\BibliotecaUPN.Web\bin\System.Web.Optimization.xml
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\BibliotecaUPN.Web\bin\System.Web.Razor.xml
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\BibliotecaUPN.Web\bin\System.Web.WebPages.xml
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\BibliotecaUPN.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\BibliotecaUPN.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\BibliotecaUPN.Web\bin\Antlr3.Runtime.pdb
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\BibliotecaUPN.Web\bin\Newtonsoft.Json.xml
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\BibliotecaUPN.Web\bin\es\System.Web.Helpers.resources.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\BibliotecaUPN.Web\bin\es\System.Web.Mvc.resources.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\BibliotecaUPN.Web\bin\es\System.Web.Optimization.resources.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\BibliotecaUPN.Web\bin\es\System.Web.Razor.resources.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\BibliotecaUPN.Web\bin\es\System.Web.WebPages.resources.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\BibliotecaUPN.Web\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\BibliotecaUPN.Web\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\BibliotecaUPN.Web\obj\Debug\BibliotecaUPN.Web.csprojAssemblyReference.cache
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\BibliotecaUPN.Web\obj\Debug\BibliotecaUPN.Web.csproj.CoreCompileInputs.cache
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\BibliotecaUPN.Web\obj\Debug\BibliotecaUPN.Web.csproj.CopyComplete
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\BibliotecaUPN.Web\obj\Debug\BibliotecaUPN.Web.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\BibliotecaUPN.Web\obj\Debug\BibliotecaUPN.Web.pdb
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\BibliotecaUPN.Web\obj\Debug\BibliotecaUPN.Web.Migrations.InitDatbase.resources
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\BibliotecaUPN.Web\obj\Debug\BibliotecaUPN.Web.csproj.GenerateResource.cache
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\BibliotecaUPN.Web\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\BibliotecaUPN.Web\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\BibliotecaUPN.Web\bin\Unity.Abstractions.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\BibliotecaUPN.Web\bin\Unity.Container.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\BibliotecaUPN.Web\bin\Unity.Mvc.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\BibliotecaUPN.Web\bin\WebActivatorEx.dll
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\BibliotecaUPN.Web\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\BibliotecaUPN.Web\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\BibliotecaUPN.Web\bin\Unity.Abstractions.pdb
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\BibliotecaUPN.Web\bin\Unity.Container.pdb
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\BibliotecaUPN.Web\bin\Unity.Mvc.pdb
+C:\Users\vaale\Desktop\Nueva carpeta\biblioteca-master\BibliotecaUPN.Web\bin\Unity.Mvc.xml
+G:\2021cursos\calidad\Exament2-master\BibliotecaUPN.Web\bin\ApplicationInsights.config
+G:\2021cursos\calidad\Exament2-master\BibliotecaUPN.Web\bin\roslyn\csc.exe
+G:\2021cursos\calidad\Exament2-master\BibliotecaUPN.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\2021cursos\calidad\Exament2-master\BibliotecaUPN.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\2021cursos\calidad\Exament2-master\BibliotecaUPN.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\2021cursos\calidad\Exament2-master\BibliotecaUPN.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\2021cursos\calidad\Exament2-master\BibliotecaUPN.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\2021cursos\calidad\Exament2-master\BibliotecaUPN.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\2021cursos\calidad\Exament2-master\BibliotecaUPN.Web\bin\roslyn\System.Collections.Immutable.dll
+G:\2021cursos\calidad\Exament2-master\BibliotecaUPN.Web\bin\roslyn\System.Reflection.Metadata.dll
+G:\2021cursos\calidad\Exament2-master\BibliotecaUPN.Web\bin\roslyn\vbc.exe
+G:\2021cursos\calidad\Exament2-master\BibliotecaUPN.Web\bin\roslyn\VBCSCompiler.exe
+G:\2021cursos\calidad\Exament2-master\BibliotecaUPN.Web\bin\roslyn\VBCSCompiler.exe.config
+G:\2021cursos\calidad\Exament2-master\BibliotecaUPN.Web\bin\BibliotecaUPN.Web.dll.config
+G:\2021cursos\calidad\Exament2-master\BibliotecaUPN.Web\bin\BibliotecaUPN.Web.dll
+G:\2021cursos\calidad\Exament2-master\BibliotecaUPN.Web\bin\BibliotecaUPN.Web.pdb
+G:\2021cursos\calidad\Exament2-master\BibliotecaUPN.Web\bin\Antlr3.Runtime.dll
+G:\2021cursos\calidad\Exament2-master\BibliotecaUPN.Web\bin\EntityFramework.dll
+G:\2021cursos\calidad\Exament2-master\BibliotecaUPN.Web\bin\EntityFramework.SqlServer.dll
+G:\2021cursos\calidad\Exament2-master\BibliotecaUPN.Web\bin\Microsoft.AI.Agent.Intercept.dll
+G:\2021cursos\calidad\Exament2-master\BibliotecaUPN.Web\bin\Microsoft.AI.DependencyCollector.dll
+G:\2021cursos\calidad\Exament2-master\BibliotecaUPN.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\2021cursos\calidad\Exament2-master\BibliotecaUPN.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\2021cursos\calidad\Exament2-master\BibliotecaUPN.Web\bin\Microsoft.AI.Web.dll
+G:\2021cursos\calidad\Exament2-master\BibliotecaUPN.Web\bin\Microsoft.AI.WindowsServer.dll
+G:\2021cursos\calidad\Exament2-master\BibliotecaUPN.Web\bin\Microsoft.ApplicationInsights.dll
+G:\2021cursos\calidad\Exament2-master\BibliotecaUPN.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\2021cursos\calidad\Exament2-master\BibliotecaUPN.Web\bin\Microsoft.Web.Infrastructure.dll
+G:\2021cursos\calidad\Exament2-master\BibliotecaUPN.Web\bin\Newtonsoft.Json.dll
+G:\2021cursos\calidad\Exament2-master\BibliotecaUPN.Web\bin\System.Runtime.CompilerServices.Unsafe.dll
+G:\2021cursos\calidad\Exament2-master\BibliotecaUPN.Web\bin\System.Threading.Tasks.Extensions.dll
+G:\2021cursos\calidad\Exament2-master\BibliotecaUPN.Web\bin\System.Web.Helpers.dll
+G:\2021cursos\calidad\Exament2-master\BibliotecaUPN.Web\bin\System.Web.Mvc.dll
+G:\2021cursos\calidad\Exament2-master\BibliotecaUPN.Web\bin\System.Web.Optimization.dll
+G:\2021cursos\calidad\Exament2-master\BibliotecaUPN.Web\bin\System.Web.Razor.dll
+G:\2021cursos\calidad\Exament2-master\BibliotecaUPN.Web\bin\System.Web.WebPages.Deployment.dll
+G:\2021cursos\calidad\Exament2-master\BibliotecaUPN.Web\bin\System.Web.WebPages.dll
+G:\2021cursos\calidad\Exament2-master\BibliotecaUPN.Web\bin\System.Web.WebPages.Razor.dll
+G:\2021cursos\calidad\Exament2-master\BibliotecaUPN.Web\bin\Unity.Abstractions.dll
+G:\2021cursos\calidad\Exament2-master\BibliotecaUPN.Web\bin\Unity.Container.dll
+G:\2021cursos\calidad\Exament2-master\BibliotecaUPN.Web\bin\Unity.Mvc.dll
+G:\2021cursos\calidad\Exament2-master\BibliotecaUPN.Web\bin\WebActivatorEx.dll
+G:\2021cursos\calidad\Exament2-master\BibliotecaUPN.Web\bin\WebGrease.dll
+G:\2021cursos\calidad\Exament2-master\BibliotecaUPN.Web\bin\EntityFramework.xml
+G:\2021cursos\calidad\Exament2-master\BibliotecaUPN.Web\bin\EntityFramework.SqlServer.xml
+G:\2021cursos\calidad\Exament2-master\BibliotecaUPN.Web\bin\Microsoft.AI.DependencyCollector.xml
+G:\2021cursos\calidad\Exament2-master\BibliotecaUPN.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\2021cursos\calidad\Exament2-master\BibliotecaUPN.Web\bin\Microsoft.AI.Web.xml
+G:\2021cursos\calidad\Exament2-master\BibliotecaUPN.Web\bin\Microsoft.AI.WindowsServer.xml
+G:\2021cursos\calidad\Exament2-master\BibliotecaUPN.Web\bin\Microsoft.ApplicationInsights.xml
+G:\2021cursos\calidad\Exament2-master\BibliotecaUPN.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\2021cursos\calidad\Exament2-master\BibliotecaUPN.Web\bin\System.Runtime.CompilerServices.Unsafe.xml
+G:\2021cursos\calidad\Exament2-master\BibliotecaUPN.Web\bin\System.Threading.Tasks.Extensions.xml
+G:\2021cursos\calidad\Exament2-master\BibliotecaUPN.Web\bin\System.Web.Helpers.xml
+G:\2021cursos\calidad\Exament2-master\BibliotecaUPN.Web\bin\System.Web.Mvc.xml
+G:\2021cursos\calidad\Exament2-master\BibliotecaUPN.Web\bin\System.Web.Razor.xml
+G:\2021cursos\calidad\Exament2-master\BibliotecaUPN.Web\bin\System.Web.WebPages.xml
+G:\2021cursos\calidad\Exament2-master\BibliotecaUPN.Web\bin\System.Web.WebPages.Deployment.xml
+G:\2021cursos\calidad\Exament2-master\BibliotecaUPN.Web\bin\System.Web.WebPages.Razor.xml
+G:\2021cursos\calidad\Exament2-master\BibliotecaUPN.Web\bin\System.Web.Optimization.xml
+G:\2021cursos\calidad\Exament2-master\BibliotecaUPN.Web\bin\Unity.Abstractions.pdb
+G:\2021cursos\calidad\Exament2-master\BibliotecaUPN.Web\bin\Unity.Container.pdb
+G:\2021cursos\calidad\Exament2-master\BibliotecaUPN.Web\bin\Unity.Mvc.pdb
+G:\2021cursos\calidad\Exament2-master\BibliotecaUPN.Web\bin\Unity.Mvc.xml
+G:\2021cursos\calidad\Exament2-master\BibliotecaUPN.Web\bin\Antlr3.Runtime.pdb
+G:\2021cursos\calidad\Exament2-master\BibliotecaUPN.Web\bin\Newtonsoft.Json.xml
+G:\2021cursos\calidad\Exament2-master\BibliotecaUPN.Web\bin\es\System.Web.Helpers.resources.dll
+G:\2021cursos\calidad\Exament2-master\BibliotecaUPN.Web\bin\es\System.Web.Mvc.resources.dll
+G:\2021cursos\calidad\Exament2-master\BibliotecaUPN.Web\bin\es\System.Web.Razor.resources.dll
+G:\2021cursos\calidad\Exament2-master\BibliotecaUPN.Web\bin\es\System.Web.WebPages.resources.dll
+G:\2021cursos\calidad\Exament2-master\BibliotecaUPN.Web\bin\es\System.Web.WebPages.Deployment.resources.dll
+G:\2021cursos\calidad\Exament2-master\BibliotecaUPN.Web\bin\es\System.Web.WebPages.Razor.resources.dll
+G:\2021cursos\calidad\Exament2-master\BibliotecaUPN.Web\bin\es\System.Web.Optimization.resources.dll
+G:\2021cursos\calidad\Exament2-master\BibliotecaUPN.Web\obj\Debug\BibliotecaUPN.Web.csprojAssemblyReference.cache
+G:\2021cursos\calidad\Exament2-master\BibliotecaUPN.Web\obj\Debug\BibliotecaUPN.Web.Migrations.InitDatbase.resources
+G:\2021cursos\calidad\Exament2-master\BibliotecaUPN.Web\obj\Debug\BibliotecaUPN.Web.csproj.GenerateResource.cache
+G:\2021cursos\calidad\Exament2-master\BibliotecaUPN.Web\obj\Debug\BibliotecaUPN.Web.csproj.CoreCompileInputs.cache
+G:\2021cursos\calidad\Exament2-master\BibliotecaUPN.Web\obj\Debug\BibliotecaUPN.Web.csproj.CopyComplete
+G:\2021cursos\calidad\Exament2-master\BibliotecaUPN.Web\obj\Debug\BibliotecaUPN.Web.dll
+G:\2021cursos\calidad\Exament2-master\BibliotecaUPN.Web\obj\Debug\BibliotecaUPN.Web.pdb
