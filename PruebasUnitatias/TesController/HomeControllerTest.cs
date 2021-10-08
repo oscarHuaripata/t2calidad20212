@@ -12,5 +12,40 @@ using System.Web.Mvc;
 
 namespace PruebasUnitatias.TesController
 {
-    
+    [TestFixture]
+    public class HomeControllerTest
+    {
+        [Test]
+
+        public void DebePoderRetornarUnaListaDeLibros()
+        {
+            var lista = new Mock<ILibros>();
+
+            lista.Setup(o => o.GetLibros()).Returns(new List<Libro>());
+
+            var controller = new HomeController(lista.Object);
+
+
+
+            var view = controller.Index() as ViewResult;
+
+            Assert.IsInstanceOf<ViewResult>(view);
+            Assert.IsInstanceOf<List<Libro>>(view.Model);
+        }
+        [Test]
+
+        public void NoDebePoderRetornarUnaListaDeLibros()
+        {
+            var lista = new Mock<ILibros>();
+
+            lista.Setup(o => o.GetLibros());
+
+            var controller = new HomeController(lista.Object);
+
+            var view = controller.Index() as ViewResult;
+
+            Assert.IsInstanceOf<ViewResult>(view);
+            Assert.IsNull(view.Model);
+        }
+    }
 }
