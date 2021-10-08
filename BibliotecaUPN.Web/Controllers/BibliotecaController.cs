@@ -37,7 +37,7 @@ namespace BibliotecaUPN.Web.Controllers
 
             biblioteca.agregarBibLIOTECA(libro, user);
 
-            TempData["SuccessMessage"] = "Se añádio el libro a su biblioteca";
+            TempData["SuccessMessage"] = "libro añadido a su biblioteca";
 
             return RedirectToAction("Index", "Home");
         }
@@ -51,7 +51,7 @@ namespace BibliotecaUPN.Web.Controllers
             // TO-DO validar si ya existe el libro en la biblioteca, en ese caso no guardar y notificar
 
             biblioteca.agregarBi(libroId, user);
-            TempData["SuccessMessage"] = "Se marco como leyendo el libro";
+            TempData["SuccessMessage"] = "se esta leyendo el libro";
 
             return RedirectToAction("Index");
         }
@@ -64,7 +64,7 @@ namespace BibliotecaUPN.Web.Controllers
 
             // TO-DO validar si ya existe el libro en la biblioteca, en ese caso no guardar y notificar
             biblioteca.marcarComoTerminado(libroId, user);
-            TempData["SuccessMessage"] = "Se marco como leyendo el libro";
+            TempData["SuccessMessage"] = "Se esta leyendo el libro";
 
             return RedirectToAction("Index");
         }

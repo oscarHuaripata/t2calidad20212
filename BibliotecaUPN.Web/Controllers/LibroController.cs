@@ -31,8 +31,7 @@ namespace BibliotecaUPN.Web.Controllers
         [HttpPost]
         public ActionResult AddComentario(Comentario comentario)
         {
-            // TO-DO validar que el usuario haya terminado de leer el libro para comentar.
-            // caso contrario no dejar comentar.
+            
 
             Usuario user = usuarioSession.setNombreUsuario();
 
