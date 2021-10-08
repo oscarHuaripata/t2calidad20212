@@ -26,7 +26,7 @@ namespace BibliotecaUPN.Web.Controllers
         public ActionResult Details(int id)
         {
             var model = ilibros.GetLibroId(id);
-            return View(model);
+            return View(model); 
         }
         [HttpPost]
         public ActionResult AddComentario(Comentario comentario)
